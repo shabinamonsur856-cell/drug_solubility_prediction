@@ -1,0 +1,4 @@
+model,Easy test (random),Hard test (new families)
+1. Always guess the average,2.146,2.327
+2. Ridge (properties),1.01,1.078
+3. Random forest (fingerprints),1.23,1.804
